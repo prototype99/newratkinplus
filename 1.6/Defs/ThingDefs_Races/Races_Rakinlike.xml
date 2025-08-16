@@ -502,7 +502,6 @@
 			</raceRestriction>
 			<thoughtSettings>
 				<cannotReceiveThoughts>
-					<li>EnvironmentDark</li>
 					<li>NeedOutdoors</li>
 				</cannotReceiveThoughts>
 			</thoughtSettings>
